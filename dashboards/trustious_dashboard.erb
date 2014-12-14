@@ -1,0 +1,12 @@
+<div class="gridster">
+  <div data-id="data_entry" data-view="EntryPoint"></div>
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Hello" data-text="This is your shiny new Trustious dashboard." data-moreinfo="Protip: You can drag the widgets around!"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="timeouts" data-view="Timeout" data-title="Timeouts" data-moreinfo="" data-prefix=""></div>
+    </li>
+  </ul>
+  <center><div style="font-size: 12px">Try this: curl -d '{ "auth_token": "YOUR_AUTH_TOKEN", "text": "Hey, Look what I can do!" }' \http://<%=request.host%>:<%=request.port%>/widgets/welcome</div></center>
+</div>

@@ -1,0 +1,34 @@
+---
+buzzwords: ! 'data: {"items":[{"label":"Leverage","value":24},{"label":"Turn-key","value":13},{"label":"Pivoting","value":2},{"label":"Web
+  2.0","value":24},{"label":"Paradigm shift","value":26},{"label":"Exit strategy","value":1},{"label":"Streamlininess","value":6},{"label":"Enterprise","value":24},{"label":"Synergy","value":9}],"id":"buzzwords","updatedAt":1418557308}
+
+
+'
+valuation: ! 'data: {"current":56,"last":50,"id":"valuation","updatedAt":1418557308}
+
+
+'
+karma: ! 'data: {"current":106652,"last":99276,"id":"karma","updatedAt":1418557308}
+
+
+'
+synergy: ! 'data: {"value":41,"id":"synergy","updatedAt":1418557308}
+
+
+'
+convergence: ! 'data: {"points":[{"x":1300,"y":7},{"x":1301,"y":31},{"x":1302,"y":42},{"x":1303,"y":28},{"x":1304,"y":43},{"x":1305,"y":27},{"x":1306,"y":32},{"x":1307,"y":39},{"x":1308,"y":18},{"x":1309,"y":0}],"id":"convergence","updatedAt":1418557308}
+
+
+'
+timeouts: ! 'data: {"operation":"increment","id":"timeouts","updatedAt":1418557297}
+
+
+'
+data_entry: ! 'data: {"metric":"timeout","id":"data_entry","updatedAt":1418557157}
+
+
+'
+welcome: ! 'data: {"text":"Looks working","id":"welcome","updatedAt":1418555255}
+
+
+'
